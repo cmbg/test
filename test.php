@@ -11,4 +11,8 @@ class test
 		{
 			echo 'wo squ ';
 		}
+		public funciton edit()
+		{
+			echo 'fdsfsdfs';
+		}
 }	
