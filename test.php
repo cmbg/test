@@ -12,3 +12,5 @@ class test
 			echo 'wo squ ';
 		}
 }	
+[init]
+templatedir=D:\软件\git\Git\mingw64\share\git-core\templates
